@@ -1,0 +1,38 @@
+body{
+background-color: aliceblue;
+font-family: 'Times New Roman';
+margin: 0px;
+padding: 0px;
+}
+h1{
+    color: rgb(255, 85, 0);
+    text-align: center;
+}
+#zoro {
+         width: 70%;
+        margin: 30px auto; /* margin để căn giữa */
+        padding: 20px; /* thêm khoảng cách bên trong */
+        background-color: #f785e6;
+        border: 1px solid #ccc;
+}
+.num{
+    margin-left: 20px;
+    padding: 5px;
+    background-color: greenyellow;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-weight: lighter;
+    font-style: normal;
+}
+.susi{
+    padding-left: 20px;
+    color: rgb(0, 0, 0);
+}
+.main{
+    padding-left: 20px;
+
+}
+.list {
+    list-style-type: lower-alpha;
+    padding-left: 20px;
+}
